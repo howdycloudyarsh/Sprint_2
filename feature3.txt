@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-this file is created in develop branch.
-=======
- this file is from testforconflict banch.
->>>>>>> testforconflict
-
+this file is from testforconflict banch.
 
