@@ -1,5 +1,0 @@
-variable "os-name" {
-	name = ""
-}
-
-
